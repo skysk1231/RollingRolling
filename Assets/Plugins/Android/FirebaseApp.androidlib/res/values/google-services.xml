@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">273283164900</string>
+  <string name="google_storage_bucket" translatable="false">rollup-rollingrolling.firebasestorage.app</string>
+  <string name="project_id" translatable="false">rollup-rollingrolling</string>
+  <string name="google_api_key" translatable="false">AIzaSyBnbE74Md_W_EMdrJyDti5KH2guYXAfd38</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnbE74Md_W_EMdrJyDti5KH2guYXAfd38</string>
+  <string name="google_app_id" translatable="false">1:273283164900:android:01e4f0186c991c1c989af1</string>
+</resources>

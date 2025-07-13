@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "273283164900",
+    "firebase_url": "https://rollup-rollingrolling-default-rtdb.firebaseio.com",
+    "project_id": "rollup-rollingrolling",
+    "storage_bucket": "rollup-rollingrolling.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273283164900:android:01e4f0186c991c1c989af1",
+        "android_client_info": {
+          "package_name": "com.Rollup.RollingRolling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnbE74Md_W_EMdrJyDti5KH2guYXAfd38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-3706732444529605~4843125922"
+    }
+  ],
+  "configuration_version": "1"
+}
